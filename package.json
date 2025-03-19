@@ -12,17 +12,16 @@ webpack/config.prod.js"
     },
     "repository": {
         "type": "git",
-        "url": 
-"https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME.git"
+        "url": "https://github.com/Sainteli35/template-webpack-Runner.git"
     },
     "author": "StepBitUp Dev Team",
     "license": "MIT",
     "bugs": {
         "url": 
-"https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME/issues"
+"https://github.com/Sainteli35/template-webpack-Runner/issues"
     },
     "homepage": 
-"https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME#readme",
+"https://github.com/Sainteli35/template-webpack-Runner#readme",
     "devDependencies": {
         "@babel/core": "^7.24.5",
         "@babel/preset-env": "^7.24.5",
